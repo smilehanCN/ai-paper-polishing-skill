@@ -1,0 +1,4 @@
+interface:
+  display_name: "人工智能论文润色SKILL"
+  short_description: "梳理视觉与机器学习论文的挑战和贡献，组织实验小节并打磨首页图"
+  default_prompt: "用 $ai-paper-writing 帮我检查这篇论文的核心主张，找出最值得先改的一处，并给出具体改写。"
